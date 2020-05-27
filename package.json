@@ -1,0 +1,17 @@
+{
+  "name": "jama-rest-client",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npm": "^6.14.5",
+    "request": "^2.88.2"
+  },
+  "main": "jamaClient.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jama Software",
+  "license": "MIT",
+  "description": ""
+}
